@@ -1,0 +1,13 @@
+/Users/gunelyusubova/Projects/Avtomat/Avtomat/bin/Debug/netcoreapp3.1/Avtomat.deps.json
+/Users/gunelyusubova/Projects/Avtomat/Avtomat/bin/Debug/netcoreapp3.1/Avtomat.runtimeconfig.json
+/Users/gunelyusubova/Projects/Avtomat/Avtomat/bin/Debug/netcoreapp3.1/Avtomat.runtimeconfig.dev.json
+/Users/gunelyusubova/Projects/Avtomat/Avtomat/bin/Debug/netcoreapp3.1/Avtomat.dll
+/Users/gunelyusubova/Projects/Avtomat/Avtomat/bin/Debug/netcoreapp3.1/Avtomat.pdb
+/Users/gunelyusubova/Projects/Avtomat/Avtomat/obj/Debug/netcoreapp3.1/Avtomat.csproj.AssemblyReference.cache
+/Users/gunelyusubova/Projects/Avtomat/Avtomat/obj/Debug/netcoreapp3.1/Avtomat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunelyusubova/Projects/Avtomat/Avtomat/obj/Debug/netcoreapp3.1/Avtomat.AssemblyInfoInputs.cache
+/Users/gunelyusubova/Projects/Avtomat/Avtomat/obj/Debug/netcoreapp3.1/Avtomat.AssemblyInfo.cs
+/Users/gunelyusubova/Projects/Avtomat/Avtomat/obj/Debug/netcoreapp3.1/Avtomat.csproj.CoreCompileInputs.cache
+/Users/gunelyusubova/Projects/Avtomat/Avtomat/obj/Debug/netcoreapp3.1/Avtomat.dll
+/Users/gunelyusubova/Projects/Avtomat/Avtomat/obj/Debug/netcoreapp3.1/Avtomat.pdb
+/Users/gunelyusubova/Projects/Avtomat/Avtomat/obj/Debug/netcoreapp3.1/Avtomat.genruntimeconfig.cache
